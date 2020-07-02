@@ -7,7 +7,7 @@ Based on Deep Learning
 
 永杰：想法分享
 
-### 任务（7.4晚上前）：
+### 任务（7.7晚前）：
 林逸：https://paperswithcode.com/paper/deep-high-resolution-representation-learning （包含代码和论文）
 
 慧琦：https://paperswithcode.com/paper/three-branch-and-mutil-scale-learning-for
